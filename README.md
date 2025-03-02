@@ -42,7 +42,7 @@ NotesRAG is an AI-powered system that automates the process of generating syllab
 #### Installation
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/NotesRAG.git
+git clone https://github.com/Deepesh-PV/NotesRAG.git
 cd NotesRAG
 ```
 Install dependencies:
