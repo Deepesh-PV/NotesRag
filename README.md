@@ -4,7 +4,7 @@
 ## Automated Syllabus-Aligned Notes Generation
 
 ### 📌 Overview
-NotesRAG is an AI-powered system that automates the process of generating syllabus-aligned study notes from textbooks. It leverages Retrieval-Augmented Generation (RAG) along with Context-Based Extraction of Concepts (**COBEC**) to extract and generate relevant educational content efficiently. The system helps students and educators save time by transforming textbooks into structured, concise notes while ensuring alignment with syllabus requirements.
+NotesRAG is an AI-powered system that automates the process of generating syllabus-aligned study notes from textbooks. It leverages Retrieval-Augmented Generation (RAG) along with Context-Based Extraction of Concepts (**COBEC**) to extract and generate relevant educational content efficiently. The system helps students and educators save time by transforming textbooks into structured, concise notes while ensuring alignment with syllabus requirements.to run the file run gui12.
 
 ### 🚀 Features
 - **Automated Note Generation** – Extracts syllabus-aligned notes from textbooks.
